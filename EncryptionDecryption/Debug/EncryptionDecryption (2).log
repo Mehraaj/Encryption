@@ -1,0 +1,6 @@
+﻿  Matrix.cpp
+\\mac\home\documents\visual studio 2015\projects\labs\encryptiondecryption\matrix.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\labs\encryptiondecryption\matrix.cpp(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\labs\encryptiondecryption\matrix.cpp(13): warning C4101: 'pt': unreferenced local variable
+  EncryptionDecryption.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\Labs\Debug\EncryptionDecryption.exe
+  EncryptionDecryption.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\Labs\Debug\EncryptionDecryption.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  Final.cpp
+c:\users\mehra\documents\visual studio 2015\vs headers\encryption.h(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mehra\documents\visual studio 2015\projects\labs\encryptiondecryption\final.cpp(149): warning C4551: function call missing argument list
+c:\users\mehra\documents\visual studio 2015\projects\labs\encryptiondecryption\final.cpp(156): warning C4551: function call missing argument list
+c:\users\mehra\documents\visual studio 2015\projects\labs\encryptiondecryption\final.cpp(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\mehra\documents\visual studio 2015\projects\labs\encryptiondecryption\final.cpp(227): warning C4551: function call missing argument list
+c:\users\mehra\documents\visual studio 2015\projects\labs\encryptiondecryption\final.cpp(18): warning C4101: 'B': unreferenced local variable
+c:\users\mehra\documents\visual studio 2015\projects\labs\encryptiondecryption\final.cpp(20): warning C4101: 'text': unreferenced local variable
+c:\users\mehra\documents\visual studio 2015\projects\labs\encryptiondecryption\final.cpp(18): warning C4101: 'C': unreferenced local variable
+LINK : fatal error LNK1168: cannot open C:\Users\mehra\Documents\Visual Studio 2015\Projects\Labs\Debug\EncryptionDecryption.exe for writing
