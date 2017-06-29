@@ -8,8 +8,8 @@
 #include <ctime>
 #include <iomanip>
 #include <fstream>
-#include "../../../VS Headers/Encryption.h"
-#include "../../../VS Headers/Decryption.h"
+#include "../../../VS Headers/Encryption.h"  /*will change based on header file location*/
+#include "../../../VS Headers/Decryption.h"	/*will change based on header file location*/
 
 using namespace std;
 
@@ -20,6 +20,7 @@ int main()
 	int A;
 	char text[100];
 
+/*---------------------------------------------------INTRO---------------------------------------------------------*/
 
 	cout << endl;
 	cout << "                     *     *    * *******   *     ******   *******  **     **  *****    " << endl;
@@ -158,7 +159,7 @@ int main()
 		A = _getch();
 	if (A == 'e' || A == 'E')
 	{
-		///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		/*-----------------------------------------------ENCRYPTION----------------------------------------------------*/
 
 
 		char message[100] = { ' ' };
@@ -228,6 +229,7 @@ int main()
 	if (_kbhit)
 		A = _getch();
 	if (A == 'd' || A == 'D')
+	/*----------------------------------------------------DECRYPTION----------------------------------------------------*/
 	{
 		char number[3][1] = { 0, 0, 0 };
 
@@ -343,5 +345,5 @@ int main()
 
 		return 0;
 
-}
+	}
 }
