@@ -4,7 +4,7 @@
 #include <string>
 #include <Windows.h>
 #include <cstdlib>
-#include <conio.h>             //need to lower duration. Fix color match up, make a default setting 
+#include <conio.h>            
 #include <ctime>
 #include <iomanip>
 #include <fstream>
