@@ -7,8 +7,11 @@
 #include <ctime>
 #include <iomanip>
 #include <fstream>
-#include "../../../VS Headers/Encryption.h"  /*will change based on header file location*/
-#include "../../../VS Headers/Decryption.h"	/*will change based on header file location*/
+#include "../../../VS Headers/Encryption.h"  /*will change based on header file location. Relative path*/
+						/*(number of dots and slashes) will need to be changed by user*/
+
+#include "../../../VS Headers/Decryption.h"	/*will change based on header file location. Relative path*/
+						/*(number of dots and slashes) will need to be changed by user*/
 
 using namespace std;
 
